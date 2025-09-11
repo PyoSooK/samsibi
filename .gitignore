@@ -1,0 +1,9 @@
+# Python 캐시 파일들
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 기타 캐시 파일들
+.DS_Store
+Thumbs.db
