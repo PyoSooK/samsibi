@@ -1,9 +1,17 @@
-# Python 캐시 파일들
+# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# 기타 캐시 파일들
+# Operating System
 .DS_Store
 Thumbs.db
+
+# Virtual Environments
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
